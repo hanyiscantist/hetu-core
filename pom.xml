@@ -57,7 +57,7 @@
         <dep.prestosql.apache.hadoop.version>3.2.0-8</dep.prestosql.apache.hadoop.version>
         <carbon.version>2.0.1</carbon.version>
         <dep.prestosql.version>316</dep.prestosql.version>
-        <dep.jackson.version>2.14.0</dep.jackson.version>
+        <dep.jackson.version>2.19.1</dep.jackson.version>
         <dep.hetu.version>${project.version}</dep.hetu.version>
         <dep.jetty.version>9.4.51.v20230217</dep.jetty.version>
         <dep.bcprov.version>1.66</dep.bcprov.version>
