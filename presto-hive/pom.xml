@@ -511,7 +511,7 @@
         <dependency>
             <groupId>com.linkedin.calcite</groupId>
             <artifactId>calcite-core</artifactId>
-            <version>1.21.0.151</version>
+            <version>1.21.0.270</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-logging</artifactId>
