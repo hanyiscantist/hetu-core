@@ -20,7 +20,7 @@
         <version.commons-lang3>3.10</version.commons-lang3>
         <version.mockito-all>1.10.19</version.mockito-all>
         <version.testing>6.10</version.testing>
-        <version.hbase>2.2.3</version.hbase>
+        <version.hbase>2.5.13</version.hbase>
         <version.jacoco-maven-plugin>0.8.2</version.jacoco-maven-plugin>
         <version.maven-dependency-plugin>3.1.1</version.maven-dependency-plugin>
     </properties>
