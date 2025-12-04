@@ -15,7 +15,7 @@
     <properties>
         <air.main.basedir>${project.parent.basedir}</air.main.basedir>
 
-        <dep.kafka.version>0.10.2.2</dep.kafka.version>
+        <dep.kafka.version>1.0.0</dep.kafka.version>
         <dep.scala.version>2.10.7</dep.scala.version>
     </properties>
 
