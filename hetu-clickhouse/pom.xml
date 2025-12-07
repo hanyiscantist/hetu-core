@@ -15,7 +15,7 @@
     <properties>
         <air.main.basedir>${project.parent.basedir}</air.main.basedir>
         <resources.dir>src/main/resources</resources.dir>
-        <version.clickhouse-jdbc>0.2.4</version.clickhouse-jdbc>
+        <version.clickhouse-jdbc>0.2.6</version.clickhouse-jdbc>
         <version.maven-surefire-plugin>3.0.0-M2</version.maven-surefire-plugin>
     </properties>
 
